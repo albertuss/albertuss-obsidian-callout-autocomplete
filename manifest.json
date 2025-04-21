@@ -1,7 +1,7 @@
 {
     "id": "callout-autocomplete",
     "name": "Callout Autocomplete",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "minAppVersion": "0.15.0",
     "description": "Adds an autocomplete dropdown for callout types when typing '> [!'. Supports default and custom callouts (via Callout Manager), with icons and colors styled like Admonition.",
     "author": "Albert Bekaev",
